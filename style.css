@@ -121,3 +121,21 @@ button:hover {
     width: 100%;
   }
 }
+@media (max-width: 500px) {
+  .food {
+    width: 400px;
+  }
+}
+
+@media (max-width: 400px) {
+  .food {
+    width: 350px;
+  }
+}
+
+@media (max-width: 350px) {
+  .food {
+    width: 290px;
+  }
+}
+
