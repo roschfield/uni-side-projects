@@ -134,9 +134,19 @@ button:hover {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 380px) {
   .food {
-    width: 290px;
+    width: 280px;
+  }
+}
+@media (max-width: 300px) {
+  .food {
+    width: 240px;
+  }
+}
+@media (max-width: 250px) {
+  .food {
+    width: 220px;
   }
 }
 
